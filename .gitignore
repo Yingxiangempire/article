@@ -1,7 +1,5 @@
 /vendor
 .idea/*
-/storage
-/tests
 /node_modules
 Homestead.yaml
 Homestead.json
