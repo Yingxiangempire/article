@@ -1,0 +1,134 @@
+<div id="webModuleContainer" class="webModuleContainer">
+            <div id='module307' class='form Handle  formStyle6 ' _autoHeight='1' _height='0' _bHeight='0'>
+                <div _bannerAutoHeight='1' class='formBannerTitle formBannerTitle307'>
+                    <div class='titleLeft titleLeft307'>
+                    </div>
+                    <div class='titleCenter titleCenter307'>
+                        <div class='titleText titleText307'>
+                            <div class='titleTextIcon icon-titleText'>&nbsp;</div>
+                            <div class='textContent'>文章列表</div>
+                        </div>
+                        <div class='formBannerMore formBannerMore307'><a class='titleMoreLink titleMoreLink307'
+                                                                         href=nr.jsp?moduleId=307><span
+                                        class='titleMoreIcon icon-titleMore titleMoreIcon307'>&nbsp;</span><span
+                                        class='titleMore titleMore307'>更多</span></a></div>
+                    </div>
+                    <div class='titleRight titleRight307'>
+                    </div>
+                </div>
+                <div class='formMiddle formMiddle307'>
+                    <div class='middleLeft middleLeft307'>
+                    </div>
+                    <div class='middleCenter middleCenter307'>
+                        <div class='formMiddleContent formMiddleContent307 moduleContent'>
+                            <div class='newsList ' id='newsList307'>
+                                <div id='newsLine5' topClassName='top1' topSwitch='on' newsId='5' newsName='请编辑文章标题'
+                                     class='newsLine line icon-gline  wWLine  firstClass  wholeLine J_lineH j-lineH'>
+                                    <div id='lineBody5' class='lineBody lineBodyTable'>
+                                        <div class='linkTableCell'>
+                                            <div class='linkTable'><a hidefocus='true'
+                                                                      href='nd.jsp?mid=307&id=5&groupId=0&typeList=%5B%5D'
+                                                                      target=_self>请编辑文章标题</a></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class='g_separator separatorLine'></div>
+                                <div id='newsLine4' topClassName='top1' topSwitch='on' newsId='4' newsName='请编辑文章标题'
+                                     class='newsLine line icon-gline  wWLine    wholeLine J_lineH j-lineH'>
+                                    <div id='lineBody4' class='lineBody lineBodyTable'>
+                                        <div class='linkTableCell'>
+                                            <div class='linkTable'><a hidefocus='true'
+                                                                      href='nd.jsp?mid=307&id=4&groupId=0&typeList=%5B%5D'
+                                                                      target=_self>请编辑文章标题</a></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class='g_separator separatorLine'></div>
+                                <div id='newsLine3' topClassName='top1' topSwitch='on' newsId='3' newsName='请编辑文章标题'
+                                     class='newsLine line icon-gline  wWLine    wholeLine J_lineH j-lineH'>
+                                    <div id='lineBody3' class='lineBody lineBodyTable'>
+                                        <div class='linkTableCell'>
+                                            <div class='linkTable'><a hidefocus='true'
+                                                                      href='nd.jsp?mid=307&id=3&groupId=0&typeList=%5B%5D'
+                                                                      target=_self>请编辑文章标题</a></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class='g_separator separatorLine'></div>
+                                <div id='newsLine2' topClassName='top1' topSwitch='on' newsId='2' newsName='请编辑文章标题'
+                                     class='newsLine line icon-gline  wWLine    wholeLine J_lineH j-lineH'>
+                                    <div id='lineBody2' class='lineBody lineBodyTable'>
+                                        <div class='linkTableCell'>
+                                            <div class='linkTable'><a hidefocus='true'
+                                                                      href='nd.jsp?mid=307&id=2&groupId=0&typeList=%5B%5D'
+                                                                      target=_self>请编辑文章标题</a></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class='g_separator separatorLine'></div>
+                                <div id='newsLine1' topClassName='top1' topSwitch='on' newsId='1' newsName='请编辑文章标题'
+                                     class='newsLine line icon-gline  wWLine    lastClass wholeLine J_lineH j-lineH'>
+                                    <div id='lineBody1' class='lineBody lineBodyTable'>
+                                        <div class='linkTableCell'>
+                                            <div class='linkTable'><a hidefocus='true'
+                                                                      href='nd.jsp?mid=307&id=1&groupId=0&typeList=%5B%5D'
+                                                                      target=_self>请编辑文章标题</a></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class='g_separator separatorLine'></div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div id="webFooterBox" class="webFooterBox  ">
+                    <!--图片详情Div -->
+
+
+                    <div id='webFooter' class='webFooter'>
+                        <div id='footer' class='footer mallThemeFooter'>
+                            <div class='bottomdiv'>
+                                <div class='bottom'>
+                                    <div class='backtop' onclick='Mobi.scrollToTop("webContainerBox")'>top<b></b></div>
+                                </div>
+                            </div>
+                            <div class='technical'>
+                                <div class='technicalSupport footerInfo'><font face='Arial'>©</font>2017&nbsp;-&nbsp;版权所有
+                                </div>
+                                <div class='technicalSupport'><a href='http://mjz.faisco.com/?_ta=2508' target='_blank'
+                                                                 hidefocus='true'>&nbsp;<span
+                                                class='faisco-icons-logo'></span>映像帝国网络传媒&nbsp;</a>
+                                    <a class='rep PcVer' href='http://m.faisco.com/ts.jsp?acct=hx13461937'
+                                       target='_blank' hidefocus='true'>举报</a></div>
+                            </div>
+                        </div>
+
+
+                    </div>
+                    <style id='mobiStyleService' type='text/css'>
+                    </style>
+                    <div id='webCustomerServiceBox' class='webCustomerServiceBox' style='display:none;'>
+                        <div class='customerServiceDiv' id='customerServiceDiv'></div>
+                    </div>
+
+                    <div id="fullScreenDivCotainer" class='fullScreenDivCotainer'></div>
+                </div>
+
+                <div id="fixedAreaBox" class="fixedAreaBox fixedAreaBox1006_2" tplid="1006_2">
+
+                </div>
+
+
+                <!--设置网站的背景颜色  start-->
+                <div class="webBackgroundBox  ">
+                    <div id="webBodyBackground" class="webBackground "></div>
+                    <div id='navExistOffPanel' class='navExistOffPanel'></div>
+                </div>
+                <!--设置网站的背景颜色  end-->
+
+                <!-- ------------------------------------------ -->
+            </div>
+            <div class="webRight"></div>
+
+        </div>
