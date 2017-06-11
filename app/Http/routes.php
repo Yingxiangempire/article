@@ -11,9 +11,7 @@
 |
 */
 
-Route::get('/', function () {
-    return view('index');
-});
+Route::get('/','ArticleController@getIndex');
 Route::get('/consult', function () {
     return view('consult');
 });
