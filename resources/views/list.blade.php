@@ -7,7 +7,7 @@
             <div class='titleCenter titleCenter307'>
                 <div class='titleText titleText307'>
                     <div class='titleTextIcon icon-titleText'>&nbsp;</div>
-                    <div class='textContent'>文章列表</div>
+                    <div class='textContent'>文章列表([简书]热门文章)</div>
                 </div>
                 <div class='formBannerMore formBannerMore307'><a class='titleMoreLink titleMoreLink307'
                                                                  href=nr.jsp?moduleId=307><span

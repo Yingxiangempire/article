@@ -7,7 +7,7 @@
                     <div class='titleCenter titleCenter308'>
                         <div class='titleText titleText308'>
                             <div class='titleTextIcon icon-titleText'>&nbsp;</div>
-                            <div class='textContent'>今日热搜词</div>
+                            <div class='textContent'>今日热搜词(数据分析门户热词)</div>
                         </div>
                         <div class='formBannerMore formBannerMore308'></div>
                     </div>
@@ -47,7 +47,7 @@
                     <div class='titleCenter titleCenter302'>
                         <div class='titleText titleText302'>
                             <div class='titleTextIcon icon-titleText'>&nbsp;</div>
-                            <div class='textContent'>今日热门文章</div>
+                            <div class='textContent'>今日热门文章([简书]最热文章)</div>
                         </div>
                         <div class='formBannerMore formBannerMore302'><a class='titleMoreLink titleMoreLink302'
                                                                          href=nr.jsp?moduleId=302><span
@@ -95,7 +95,7 @@
                     <div class='titleCenter titleCenter301'>
                         <div class='titleText titleText301'>
                             <div class='titleTextIcon icon-titleText'>&nbsp;</div>
-                            <div class='textContent'>热门专题</div>
+                            <div class='textContent'>热门专题([简书]热门专题)</div>
                         </div>
                         <div class='formBannerMore formBannerMore301'><a class='titleMoreLink titleMoreLink301'
                                                                          href=pr.jsp?moduleId=301><span
