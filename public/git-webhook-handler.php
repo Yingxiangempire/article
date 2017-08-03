@@ -9,7 +9,7 @@ $path = "/usr/share/nginx/html/article/";
 $requestBody = file_get_contents("php://input");
 file_put_contents("git-webhook.txt", "到这了", FILE_APPEND);//追加写入
 if (empty($requestBody)) {
-    file_put_contents("git-webhook.txt", "失败了", FILE_APPEND);//追加写入
+    file_put_contents("git-webhook.txt", "失败了hahahahaha", FILE_APPEND);//追加写入
     die('send failssss');
 }
 file_put_contents("git-webhook.txt", $requestBody, FILE_APPEND);//追加写入
