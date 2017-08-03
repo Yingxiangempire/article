@@ -12,6 +12,7 @@ if (empty($requestBody)) {
 }
 $content = json_decode($requestBody, true);
 //若是主分支且提交数大于0
+file_put_contents("git-webhook.txt", $content['ref'].'<>'.$content['total_commits_count'], FILE_APPEND);//追加写入
 if ($content['ref']=='refs/heads/master' && $content['total_commits_count']>0) {
     file_put_contents("git-webhook.txt", "到这了haha", FILE_APPEND);//追加写入
     $res = shell_exec("cd {$path} && git reset --hard origin/master && git clean -f && git pull 2>&1 && git checkout master");//以www用户运行
