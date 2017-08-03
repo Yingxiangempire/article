@@ -9,8 +9,10 @@ $path = "/usr/share/nginx/html/article/";
 $requestBody = file_get_contents("php://input");
 file_put_contents("git-webhook.txt", "到这了", FILE_APPEND);//追加写入
 if (empty($requestBody)) {
+    file_put_contents("git-webhook.txt", "失败了", FILE_APPEND);//追加写入
     die('send failssss');
 }
+file_put_contents("git-webhook.txt", $requestBody, FILE_APPEND);//追加写入
 $content = json_decode($requestBody, true);
 //若是主分支且提交数大于0
 if ($content['ref']=='refs/heads/master' && $content['total_commits_count']>0) {
@@ -20,5 +22,5 @@ if ($content['ref']=='refs/heads/master' && $content['total_commits_count']>0) {
     $res_log .= $res.PHP_EOL;
     file_put_contents("git-webhook.txt", $res_log, FILE_APPEND);
 
-    
+
 }
