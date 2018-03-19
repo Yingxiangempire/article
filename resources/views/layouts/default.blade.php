@@ -86,7 +86,13 @@
 <body faiscoMobi="true" id="g_body" class="g_locale2052 mobiCol3">
 
 <script type="text/javascript">
-
+    var _hmt = _hmt || [];
+    (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?c5f1b8747064f0c81c7d0144d575c834";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
     //html root的字体计算应该放在最前面，这样计算就不会有误差了/
     //2016.3.23 wjq update 之所以要加个判断返回一个20.5，是因为当用户在谷歌等浏览器直接输入手机端网站网址时，如果用户设置模块自定义样式的高度比较小，由于这时候的clientWidth为1920px，及返回的_htmlFontSize为40，这时候就会使模块太小，展示不完全，因此先取一个较为准确的值去展示。Mobi.resetHtmlFontSize()顺便也加了
     var _htmlFontSize = (function () {
